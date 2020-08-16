@@ -11,3 +11,4 @@ During the session, we'll be working together to add functionality to create new
 ## Author
 
 * **Sarah Cullen** - *Initial HTML/CSS*
+* **Jason Tilley** - *java script*

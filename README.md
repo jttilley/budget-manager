@@ -12,3 +12,6 @@ During the session, we'll be working together to add functionality to create new
 
 * **Sarah Cullen** - *Initial HTML/CSS*
 * **Jason Tilley** - *java script*
+
+# License
+*MIT* © 2020 Sarah Cullen, Jason Tilley
